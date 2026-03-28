@@ -4,7 +4,7 @@ This project is an implementation of an energy management system for a Mars colo
 
 ## Description
 
-The application simulates a micro-grid that manages energy production, consumption, and storage. The system runs in simulation steps (ticks), where a central controller balances energy across all components. :contentReference[oaicite:0]{index=0}
+The application simulates a micro-grid that manages energy production, consumption, and storage. The system runs in simulation steps (ticks), where a central controller balances energy across all components.
 
 ## Features
 
